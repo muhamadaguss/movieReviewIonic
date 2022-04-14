@@ -1,0 +1,7 @@
+{
+  "name": "movieReview",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
